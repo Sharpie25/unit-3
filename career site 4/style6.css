@@ -4,3 +4,4 @@ a{font-size:16px; font-style: italic;}
 header{border-style:rgd(215, 202, 242);}
 main{background-color:rgd(215, 202, 242); height:80%; width:70%}
 img{background-image: url ("link_to_my_picture");}
+.job-title{font-weight:bold; color:maroon;}
