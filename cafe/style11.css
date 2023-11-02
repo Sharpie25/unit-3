@@ -1,16 +1,4 @@
-/* Create a rule that will select the first li element
-    in a ul element using the :first-child selector */
 li:first-child{color:green; font-size:24px;}
-
-
-
-
-
-
-
-
-
-/*Basic Page Styles */
 
 body{
     background-image:url("https://codehs.com/uploads/ca63ccc6859f27d4476d5f0e22a853be");
