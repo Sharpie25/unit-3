@@ -1,0 +1,10 @@
+h3{text-transform: uppercase;}
+p{text-align: right; font-family: Arial;}
+a{font-size:16px; font-style: italic;}
+header{border-style:rgd(215, 202, 242);}
+main{background-color:rgd(215, 202, 242); height:80%; width:70%; margin:15px; padding:10px;}
+img{background-image: url ("link_to_my_picture"); width:200px; height:200px;border-style: solid; border-width: 5px; border-color: black; display: block; margin-left: auto; margin-right: auto; width: 50%; border-radius: 50%;}
+.job-title{font-weight:bold; color:maroon;}
+.large-list{font-size:25px; font-weight:bold;}
+ul{font-size:18px;font-weight:normal;}
+footer{margin:50px; padding:10px;}
