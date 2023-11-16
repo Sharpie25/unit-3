@@ -1,2 +1,5 @@
 body{background-color: aliceblue;}
 h1{background-color:pink; border-style: dotted; text-align: center;}
+#adoptshop{background-image: url("sadparrot.jpg"); background-repeat: no-repeat;}
+#this{background-color: pink; width: 45%;}
+#that{background-color: pink;}
