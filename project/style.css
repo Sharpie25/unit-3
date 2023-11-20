@@ -1,5 +1,8 @@
-body{background-color: aliceblue;}
+body{background-color: rgb(203, 231, 255);}
 h1{background-color:pink; border-style: dotted; text-align: center;}
 #adoptshop{background-image: url("sadparrot.jpg"); background-repeat: no-repeat;}
 #this{background-color: pink; width: 45%;}
-#that{background-color: pink;}
+.that{background-color: pink;}
+#fatsadcat{filter:grayscale(50%);}
+#skinnysaddog{border-style: groove; transition: 1s;}
+img:hover{width:500px; transition: 2s;}
