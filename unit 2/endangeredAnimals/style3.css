@@ -1,0 +1,22 @@
+body {
+    background-color: #ffd1aa;
+    font-size: 18px;
+}
+h1{
+    color: #003333
+}
+h2{
+    color: #162955
+}
+.scientific-name{
+    font-style:italic;
+}
+#sandhill{
+    border-style:dotted
+}
+#creepybird{
+    border-style:dashed;
+}
+#cutebird{
+    border-style:double;
+}

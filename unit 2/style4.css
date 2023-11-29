@@ -1,0 +1,19 @@
+.header{
+    background-color:olivedrab;
+    color:white;
+    text-align:center;
+}
+.odd-row{
+    background-color:sandybrown;
+}
+.even-row{
+    background-color:indianred;
+}
+table{
+    width: 100%;
+    font-family: helvetica;
+}
+td{
+    padding: 10px;
+    text-align:center;
+}
