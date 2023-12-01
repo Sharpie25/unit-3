@@ -23,4 +23,6 @@ a:hover{
 .cover{
     height:300px;
     margin-top:25%;
+    background-image: url("swirl.jpg");
+    background-size: cover;
 }
