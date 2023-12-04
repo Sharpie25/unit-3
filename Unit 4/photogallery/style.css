@@ -3,7 +3,7 @@ body{
     background-color: #D5D5D5;
 }
 h1 {
-    color: #9099A2; 
+    color:#9099A2; 
 }
 
 h2, h3, h4, h5, h6{
@@ -23,6 +23,17 @@ a:hover{
 .cover{
     height:300px;
     margin-top:25%;
-    background-image: url("swirl.jpg");
+    background-image: url(swirl.jpg);
     background-size: cover;
 }
+.front-logo h1{color:white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;}
+.col-sm-2{height:200px;
+    padding:2em;
+    margin-top:2em;}
+.front-nav-1{background-color:#64271b;}
+.front-nav-2{background-color:#354243;}
+.front-nav-3{background-color:#80598d;}
