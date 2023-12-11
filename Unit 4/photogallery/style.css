@@ -40,3 +40,6 @@ a:hover{
 img{width:200px; height:200px;}
 .center{text-align: center;}
 .boom{text-decoration:overline;}
+table{border-style: dotted; } 
+thead{ background-color: #80598d;}
+tbody:hover{background-color: aliceblue;}
