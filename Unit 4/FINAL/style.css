@@ -1,4 +1,6 @@
 body{background-color: beige;}
+.band{height: 390px; width:600px;}
 img{width:440px;}
 .zbb{text-align:center;}
 h1{background-color: rgba(165, 42, 42, 0.909); color:beige; margin-top: 2%;}
+tbody:hover{background-color: white;}
