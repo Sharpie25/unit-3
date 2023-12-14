@@ -4,3 +4,7 @@ img{width:440px;}
 .zbb{text-align:center;}
 h1{background-color: rgba(165, 42, 42, 0.909); color:beige; margin-top: 2%;}
 tbody:hover{background-color: white;}
+h2{color:rgba(165, 42, 42, 0.909); margin-top: 2%;}
+.back{background-image: url(hug.jpg);}
+.mine{color:beige;}
+a{color:beige;}
